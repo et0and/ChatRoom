@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Courier+Prime&display=swap');
 
 :root {
 	--dark-color-a: #ff6666;
@@ -15,7 +15,7 @@
 }
 
 body {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Courier Prime', sans-serif;
 	font-size: 16px;
 	background: var(--light-color);
 	margin: 20px;
