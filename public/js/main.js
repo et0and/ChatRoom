@@ -105,7 +105,7 @@ function myFunction() {
   }
   window.onfocus = function() {
     notif_count = 0;
-    document.title = "ChatRoom App";
+    document.title = "Tom's Cafe";
   }
 }
 
